@@ -1,4 +1,4 @@
-Hello! This is my Github account. Isn't this groovy?
+Hello! My name is Dennis, and this is my Github account. Isn't this groovy?
 
 
 <!--- Hello Michigan Marriage Pact! This is my Github where I have all of my coding projects!
