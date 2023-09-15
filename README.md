@@ -1,4 +1,8 @@
-Hello Michigan Marriage Pact! This is my Github where I have all of my coding projects!
+Hello! This is my Github account. Isn't this groovy?
+
+
+<!--- Hello Michigan Marriage Pact! This is my Github where I have all of my coding projects!
+--->
 
 <!---
 dennisfarmer/dennisfarmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
