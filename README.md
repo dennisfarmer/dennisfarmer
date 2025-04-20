@@ -1,5 +1,10 @@
-Hello! My name is Dennis, and this is my Github account. Isn't this groovy?
+<h1>I'm Dennis 👋</h1>
 
+Hello! I study Data Science and Music at the University of Michigan.
+
+<!--
+Hello! My name is Dennis, and this is my Github account. Isn't this groovy?
+-->
 
 <!--- Hello Michigan Marriage Pact! This is my Github where I have all of my coding projects!
 --->
